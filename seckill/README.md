@@ -27,3 +27,4 @@ new Seckill({
 mocha --compilers js:babel-core/register ./seckill.test.js
 
 详细使用说明：
+http://www.cnblogs.com/hity-tt/p/8658406.html
