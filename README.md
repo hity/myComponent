@@ -17,4 +17,8 @@
   name: seckill 
   date: 2018-03-28 
   其他: es6
+5、picker组件
+  name: picker 
+  date: 2018-04-24 
+  其他: es6
 ```
